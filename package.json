@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YaroslavSkrypnyk23.github.io/BrainwaveWebSite.git",
+  "homepage": "https://YaroslavSkrypnyk23.github.io/BrainwaveWebSite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
